@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 echo "node_modules" > .gitignore
+=======
+"node_modules/" 
+".env" 
+>>>>>>> 3c3dcd1ed41ae8737ec9cb5f83e5c1f15cd5b30d
